@@ -1,0 +1,45 @@
+p {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-family: 'Permanent Marker', cursive;
+}
+
+body {
+    text-align:
+        center;
+}
+
+img {
+    width: 160px;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+img {
+    border: 10px solid purple;
+}
+
+.artist {
+    background-color: purple;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
